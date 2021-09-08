@@ -6,6 +6,7 @@
 * **Section:** available
 * **Actions:** cell left swipe
 * **Image required:** yes
+* **Specificity:** moving from list form to detail form is not available in this template for the iOS part
 
 ## How to integrate
 
